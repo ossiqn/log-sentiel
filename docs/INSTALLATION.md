@@ -1,0 +1,1 @@
+Kurulum icin scripts klasorundeki install.sh dosyasini calistirin.

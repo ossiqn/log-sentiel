@@ -1,0 +1,1 @@
+Discord kanal ayarlari -> Entegrasyonlar -> Webhooks kismindan URL al.

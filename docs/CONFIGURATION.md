@@ -1,0 +1,1 @@
+Config yaml dosyasini webhook ve log yollari ile duzenleyin.

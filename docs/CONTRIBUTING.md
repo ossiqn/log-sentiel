@@ -1,0 +1,1 @@
+PR'lar kabul edilir kanka.

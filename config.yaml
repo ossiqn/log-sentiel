@@ -1,0 +1,10 @@
+discord_webhook_url: "YOUR_WEBHOOK_URL"
+database_path: "logs/sentinel.db"
+check_interval: 2
+brute_force_threshold: 10
+brute_force_window: 60
+auto_block_enabled: false
+log_sources:
+  - path: "/var/log/nginx/access.log"
+    type: "nginx"
+    enabled: true

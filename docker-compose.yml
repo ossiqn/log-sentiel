@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  log-sentinel:
+    build: .
+    volumes:
+      - ./logs:/app/logs
+      - /var/log:/var/log:ro
+    restart: unless-stopped
